@@ -25,7 +25,7 @@ Lays the foundation for real-time AI-based alerts
 ✔ Crime severity and response time insights
 
 4.Dataset Overview
-1️⃣ safezone_updated.csv
+1️⃣ https://github.com/shirishasuresh/Women-s-Safety-Analytics-Dashboard-/blob/main/safezone_updated.csv
 
 Contains verified safe locations such as police stations, hospitals, NGOs, and shelters.
 
@@ -35,7 +35,7 @@ safezone_id, name, type, city, state, latitude, longitude
 
 contact_number, open_24x7, rating
 
-2️⃣ safezone_incidents_2022_2024.csv
+2️⃣ https://github.com/shirishasuresh/Women-s-Safety-Analytics-Dashboard-/blob/main/safezone_incidents_2022_2024.csv
 
 Contains incident reports near safe zones from 2022 to 2024.
 
