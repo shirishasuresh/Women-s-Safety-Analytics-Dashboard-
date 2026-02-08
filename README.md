@@ -20,8 +20,13 @@ Lays the foundation for real-time AI-based alerts
 3. Key Features
 
 ✔ Area-wise, year-wise, and category-wise filters
+
+
 ✔ Heatmaps of safe vs unsafe zones
+
+
 ✔ Time-based risk analysis
+
 ✔ Crime severity and response time insights
 
 4.Dataset Overview
