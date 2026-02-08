@@ -1,0 +1,21 @@
+incident_id,safezone_id,crime_type,city,state,incident_date,incident_time,severity,reported_to_police,resolved,response_time_minutes
+INC001,SZ001,Harassment,Bangalore,Karnataka,2022-02-14,20:30,Medium,Yes,Yes,7
+INC002,SZ002,Assault,Bangalore,Karnataka,2022-06-03,23:10,High,Yes,Yes,5
+INC003,SZ003,Domestic Violence,Chennai,Tamil Nadu,2022-08-21,21:45,High,Yes,No,12
+INC004,SZ004,Stalking,Hyderabad,Telangana,2022-11-10,19:20,Low,Yes,Yes,9
+INC005,SZ005,Harassment,Hyderabad,Telangana,2022-12-28,22:00,Medium,No,No,15
+INC006,SZ006,Assault,Delhi,Delhi,2023-01-18,23:40,High,Yes,Yes,6
+INC007,SZ007,Sexual Assault,Delhi,Delhi,2023-03-09,21:15,Critical,Yes,Yes,4
+INC008,SZ008,Harassment,Mumbai,Maharashtra,2023-05-27,18:50,Medium,Yes,Yes,8
+INC009,SZ009,Domestic Violence,Mumbai,Maharashtra,2023-07-13,22:10,High,Yes,No,11
+INC010,SZ010,Stalking,Pune,Maharashtra,2023-09-01,20:25,Low,Yes,Yes,10
+INC011,SZ011,Harassment,Trivandrum,Kerala,2023-10-15,19:00,Medium,No,No,14
+INC012,SZ012,Assault,Kochi,Kerala,2023-11-22,23:05,High,Yes,Yes,6
+INC013,SZ013,Domestic Violence,Visakhapatnam,Andhra Pradesh,2024-01-08,21:30,High,Yes,Yes,7
+INC014,SZ014,Stalking,Visakhapatnam,Andhra Pradesh,2024-02-19,18:40,Low,Yes,Yes,9
+INC015,SZ015,Sexual Assault,Bangalore,Karnataka,2024-03-27,22:55,Critical,Yes,Yes,5
+INC016,SZ001,Harassment,Bangalore,Karnataka,2024-04-12,19:10,Medium,Yes,Yes,8
+INC017,SZ002,Domestic Violence,Bangalore,Karnataka,2024-05-06,23:20,High,Yes,No,13
+INC018,SZ006,Assault,Delhi,Delhi,2024-06-01,21:45,High,Yes,Yes,6
+INC019,SZ008,Stalking,Mumbai,Maharashtra,2024-07-09,20:00,Low,Yes,Yes,10
+INC020,SZ010,Harassment,Pune,Maharashtra,2024-08-18,18:35,Medium,No,No,16

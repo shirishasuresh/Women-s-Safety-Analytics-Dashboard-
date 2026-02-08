@@ -1,0 +1,16 @@
+safezone_id,name,type,city,state,latitude,longitude,contact_number,open_24x7,rating
+SZ001,MG Road Police Station,Police Station,Bangalore,Karnataka,12.9738,77.6115,08012345678,Yes,4.3
+SZ002,St Johns Medical College Hospital,Hospital,Bangalore,Karnataka,12.9346,77.6101,08022065000,Yes,4.5
+SZ003,Sneha Foundation,NGO,Chennai,Tamil Nadu,13.0827,80.2707,04424640050,Yes,4.6
+SZ004,Apollo Hospital,Hospital,Hyderabad,Telangana,17.4474,78.3762,04023607777,Yes,4.4
+SZ005,Banjara Hills Police Station,Police Station,Hyderabad,Telangana,17.4123,78.4483,04023312000,Yes,4.1
+SZ006,Shakti Shelter Home,Shelter,Delhi,Delhi,28.7041,77.1025,01123960000,Yes,4.2
+SZ007,AIIMS Trauma Centre,Hospital,Delhi,Delhi,28.5672,77.21,01126588500,Yes,4.7
+SZ008,Colaba Police Station,Police Station,Mumbai,Maharashtra,18.9067,72.8147,02222621400,Yes,4.0
+SZ009,Tata Memorial Hospital,Hospital,Mumbai,Maharashtra,19.004,72.842,02224177000,Yes,4.6
+SZ010,Women Protection Cell,Police Unit,Pune,Maharashtra,18.5204,73.8567,02026122880,Yes,4.3
+SZ011,KIMS Hospital,Hospital,Trivandrum,Kerala,8.5241,76.9366,04712552200,Yes,4.5
+SZ012,Kerala Police Vanitha Cell,Police Unit,Kochi,Kerala,9.9312,76.2673,04842350000,Yes,4.4
+SZ013,CARE Hospital,Hospital,Visakhapatnam,Andhra Pradesh,17.6868,83.2185,08912520000,Yes,4.3
+SZ014,Dwaraka Police Station,Police Station,Visakhapatnam,Andhra Pradesh,17.712,83.3,08912570000,Yes,4.1
+SZ015,NIMHANS Crisis Centre,Hospital,Bangalore,Karnataka,12.9435,77.5963,08026995000,Yes,4.8
